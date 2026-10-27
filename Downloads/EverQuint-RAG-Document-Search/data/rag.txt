@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation combines document retrieval with language
+generation. A retrieval system searches a document collection and selects
+relevant passages. These passages are supplied as context to a language
+model to help generate grounded answers. Chunking, embeddings, vector
+search, reranking, and evaluation can improve retrieval quality.

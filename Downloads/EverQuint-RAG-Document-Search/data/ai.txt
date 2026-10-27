@@ -1,0 +1,5 @@
+Artificial intelligence enables computer systems to perform tasks that
+typically require human intelligence. Machine learning is a subset of
+artificial intelligence that learns patterns from data. Deep learning
+uses neural networks with multiple layers. Applications include image
+recognition, natural language processing, forecasting, and robotics.

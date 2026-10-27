@@ -1,0 +1,6 @@
+Renewable energy comes from sources that are naturally replenished,
+including sunlight, wind, and water. Solar photovoltaic panels convert
+sunlight into electricity. Wind turbines convert the kinetic energy of
+moving air into electrical power. Energy storage, forecasting, and
+grid management help integrate renewable generation into electricity
+networks.
